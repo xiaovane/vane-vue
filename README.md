@@ -15,7 +15,16 @@ vane-vue 是一个平时自己学习的新闻、视频和直播网站的前端vu
 <pre>4、打包 npm run build</pre>
 # 演示地址
 <pre>http://yole.xyz,此演示地址也是线上环境，可以下载体验app</pre>
+# 交流
+<pre>交流群: 550561262; 作者qq: 1187274583</pre>
 # 相关截图
+![Image_text](https://github.com/xiaovane/vane-vue/blob/master/src/assets/images/show/index.png)
+![Image_text](https://github.com/xiaovane/vane-vue/blob/master/src/assets/images/show/index2.png)
+![Image_text](https://github.com/xiaovane/vane-vue/blob/master/src/assets/images/show/index3.png)
+![Image_text](https://github.com/xiaovane/vane-vue/blob/master/src/assets/images/show/index4.png)
 # 打赏
+![Image_text](https://github.com/xiaovane/vane-vue/blob/master/src/assets/images/show/wechat.JPG)
+![Image_text](https://github.com/xiaovane/vane-vue/blob/master/src/assets/images/show/zfb.JPG)
+<pre>如果您觉得帮助到了您，那么请作者喝杯奶茶吧,谢谢金主爸爸</pre>
 # 注意
 <pre>注意:此项目不存储任何数据，另外仅可作为交流学习使用</pre>
