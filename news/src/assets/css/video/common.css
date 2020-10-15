@@ -1,0 +1,18 @@
+#page1 div{
+    float:left;
+}
+
+#page1 a{
+    color: #333;
+    width:fit-content;
+}
+
+#page1 a:hover,a:visited{
+    color: #ffff;
+    background:#ff7562;
+}
+
+#page1 .red{
+    color: #ffff;
+    background:#ff7562;
+}
